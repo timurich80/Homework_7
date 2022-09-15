@@ -18,7 +18,7 @@ void printArr(int[,] arr)
 }
 
 
-// Функция заполнения 2D массива методом Random
+
 void fillArr(int[,] arr)
 {
     for(int i = 0; i < arr.GetLength(0); i++)
